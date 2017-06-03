@@ -22,3 +22,20 @@ optional arguments:
   --mode MODE           Specify mode: `train` or `eval`
   --plot                Whether plot the reconstructed images or not
 ```
+
+
+
+Loss & Reconstruction
+---------------------
+
+After training 8000+ steps ...
+
+- Loss
+
+![](assets/loss.png)
+
+- Reconstructed MNIST images
+
+![](assets/pic1.png)
+
+![](assets/pic2.png)

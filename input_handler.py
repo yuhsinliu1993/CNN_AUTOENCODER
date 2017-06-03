@@ -1,5 +1,7 @@
 import numpy as np
 
+np.random.seed(123)
+
 
 def load_data(data_path):
     MNIST_M = np.load(data_path)
